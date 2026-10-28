@@ -1,0 +1,17 @@
+/* stylesheet.css */
+
+/* Відступи для головного вертикального контейнера додаткових блоків */
+.custom-osk-layout {
+    spacing: 0px;
+    margin-top: 3px;
+}
+
+/* Відступи для горизонтальних рядків з кнопками */
+.custom-osk-container {
+    spacing: 6px;
+}
+
+/* Розміри самих кнопок */
+.custom-osk-key {
+    min-width: 58px;
+}

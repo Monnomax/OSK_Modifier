@@ -1,0 +1,7 @@
+{
+    "uuid": "osk_modifier@local",
+    "name": "OSK Modifier",
+    "description": "Додає кастомні блоки до екранної клавіатури.",
+    "shell-version": ["50", "51"],
+    "url": ""
+}
